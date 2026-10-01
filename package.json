@@ -1,25 +1,5 @@
 {
-  "name": "stay_ease",
-  "version": "1.0.0",
-  "description": "Full-stack hotel booking and management system built with React, Node.js, Express, PostgreSQL, and Drizzle ORM, featuring role-based access, room management, availability, and bookings.",
-  "homepage": "https://github.com/dev-doyan/stay_ease#readme",
-  "bugs": {
-    "url": "https://github.com/dev-doyan/stay_ease/issues"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/dev-doyan/stay_ease.git"
-  },
-  "license": "ISC",
-  "author": "doyan",
-  "type": "module",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "dependencies": {
-    "dotenv": "^18.0.5",
-    "express": "^5.2.1",
-    "nodemon": "^3.1.14"
+    "bcrypt": "^6.0.0"
   }
 }
